@@ -1,0 +1,2 @@
+to insert into table "sections" use python file, if a schedule exists then,
+it will automatically insert sections into the table with apropiate time slots, else it wont
